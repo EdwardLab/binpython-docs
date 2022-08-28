@@ -1,7 +1,7 @@
 # Custom configure and personalize your BINPython
 BINPython has built-in personalization and customization functions, you can create `binpython_config` in the BINPython run directory to enable this function  
 
-When you create the `binpython_config` folder, you will find that nothing changes, because you also need to create three configuration files, these three configuration files can contain only one, they are:
+When you create the `binpython_config` folder, you will find that nothing changes, because you also need to create three configuration files, these three configuration files can contain one also can include all, they are:
 
  `help.txt` -- When you create `help.txt` in `binpython_config` folder and use `binpython -h (--help)`, BINPython will not load the default help information, you will see, it will output the content of help.txt file, which can help you Define help content for BINPython
 
