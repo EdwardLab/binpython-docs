@@ -36,7 +36,12 @@ Enter CMD, switch to the current BINPython working directory (use cd, etc.), and
 By `cd` to the BINPython working environment, using `binpython` will open the BINPython shell. View the usage of BINPython through `binpython -h`
 # Run the .py file
 Just use `binpython <filename.py>` or `binpython -f <filename.py>(--file=<filename.py>)`
+# Github repository
+[Github](https://github.com/xingyujie/binpython)
+# Github releases
+[Releases](https://github.com/xingyujie/binpython/releases)
 # Screenshot
+The following screenshot libraries have been built into the standard releases version, of course, there are many libraries without screenshots, please experience it yourself
 ## BINPython Shell
 ![binpython](docs/img/binpython/main.png "binpython")
 ## Run Turtle via BINPython
