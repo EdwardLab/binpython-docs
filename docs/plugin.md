@@ -35,4 +35,4 @@ class binpython_demo():
     def winver():
         os.system("winver")
 ```
-You can view plugin info anywhere with `binpython.showinfo()`
+You can view plugin info anywhere with `binpythonplugin.showinfo()`
