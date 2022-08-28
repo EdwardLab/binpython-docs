@@ -10,8 +10,9 @@
 
 * notice: In Linux or multiple Python environments, pip may be pip3, see the system environment variables for details
 
-4. If your system is Linux, use `bash buildlinux.sh`, if your system is Windows, double-click `buildwin.bat`
+4. If your system is Linux, use `bash buildlinux.sh`, if your system is Windows, double-click `buildwin.bat`  
 
+(If you want to build tkinter in Linux, please install the `python3-tk` package (different Linux versions have different installation methods)
 # advanced
 ## build custom library
 BINPython allows custom Python libraries to be built into BINPython for portable/integrated products
