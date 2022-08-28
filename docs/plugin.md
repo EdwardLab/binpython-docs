@@ -1,7 +1,7 @@
 # Write your plugin
 BINPython supports plugins. You can write your own functions and classes to load into the plugin  
 # Create your plugin
-Create a binpython_plugin folder in your BINPython run directory   
+Create a `binpython_plugin` folder in your BINPython run directory   
 This folder should contain two files:`pluginconfig.binpython` and `function.py`  
 After creating the file, by any method, such as IDE or file editor, enter the following content in the specified file below:  
 pluginconfig.binpython：  
