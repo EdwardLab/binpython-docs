@@ -6,6 +6,13 @@
 </p>
 <p align="center">
 
+![Github stars](https://img.shields.io/github/stars/xingyujie/binpython.svg)
+![Discord](https://img.shields.io/badge/Discord-https://discord.gg/dz9HwwdSXh-green)
+![telegram](https://img.shields.io/badge/Telegram-@binpython-blue)
+![pyver](https://img.shields.io/badge/PythonVersion->3.5-green)
+![license](https://img.shields.io/badge/LICENSE-AGPL--3.0-brightgreen)
+![author](https://img.shields.io/badge/Author-xingyujie-orange)
+
 # What is BINPython?
 BINPython is a single-file, green version of Python that supports encapsulation of custom libraries and can be integrated into programs/projects 
 # Why BINPython
