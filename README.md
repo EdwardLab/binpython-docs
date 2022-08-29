@@ -1,4 +1,4 @@
-<div align=center><img src="./py.ico" width="  "></div>
+<div align=center><img src="./favicon.ico" width="  "></div>
 <h1 align="center" name="binpython">BINPython</h1>
 <p align="center">
     <em>Lightweight and small portable Python, build with pyinstaller
