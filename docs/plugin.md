@@ -35,4 +35,7 @@ class binpython_demo():
     def winver():
         os.system("winver")
 ```
+
+After writing the function, we can use it anywhere. For example, we open the BINPython Shell, type `binpythondemo.hello()`, it will return `hello BINPython`, then we can call the function we wrote
+
 You can view plugin info anywhere with `binpythonplugin.showinfo()`
